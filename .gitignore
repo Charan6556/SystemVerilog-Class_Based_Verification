@@ -1,0 +1,26 @@
+# Simulation outputs
+simv
+simv.daidir/
+csrc/
+xcelium.d/
+work/
+.simvision/
+*.vcd
+*.vpd
+*.fsdb
+*.wlf
+*.log
+*.key
+xrun.history
+transcript
+
+# Tool-generated setup files
+ACCELLERA_OVL_VHDL_LIB/
+synopsys_sim.setup
+cds.lib
+specman
+vcs
+
+# OS metadata
+.DS_Store
+__MACOSX/
